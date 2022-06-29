@@ -358,11 +358,11 @@ Im *NayLaBotz* And You Use
 
     externalAdReply: {
 
-                    mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
+                    mediaUrl: 'https://youtu.be,
 
-                    title: 'CREATED BY ZEVANO',
+                    title: 'CREATED BY daniel',
 
-                    body: 'NayLa-B0TZ',
+                    body: 'daniel-B0TZ',
 
                     thumbnail: await(await fetch(global.thum)).buffer()
 
