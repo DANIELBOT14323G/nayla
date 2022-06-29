@@ -5,7 +5,7 @@ let handler = async (m, { conn, text }) => {
 *Jawaban:* ${pickRandom(['Ya','Mungkin iya','Mungkin','Mungkin tidak','Tidak','Tidak mungkin'])}
 `.trim(), m)
 }
-handler.help = ['Baka Botz','Arifi Razzaq','Xteam','RendyCraft','Ibnu NR','Caliph','Zeks']
+handler.help = ['Baka Botz','Arifi Razzaq','Xteam','RendyCraft','Ibnu NR','Caliph','Zeks,nurutomo']
 handler.tags = ['thnks']
 handler.customPrefix = /(\?$)/
 handler.command = /^rakujelek$/i
